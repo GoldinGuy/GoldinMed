@@ -1,9 +1,9 @@
-@import url("../plugins/font-awesome-4.7.0/css/font-awesome.min.css");
-@import url("../plugins/animate.min.css");
-@import url("../plugins/bootstrap.min.css");
-@import url("../plugins/bootstrap-select.min.css");
-@import url("../plugins/jquery-ui/jquery-ui.css");
-@import url("../plugins/timePicker.css");
+@import url("../../plugins/font-awesome-4.7.0/css/font-awesome.min.css");
+/*@import url("../plugins/css/animate.min.css"); */
+@import url("../plugins/bootstrap/bootstrap.min.css");
+@import url("../plugins/bootstrap/bootstrap-select.min.css");
+/* @import url("../plugins/jquery-ui/jquery-ui.css");
+@import url("../plugins/css/timePicker.css"); */
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700|Source+Sans+Pro:400,600,700");
 body {
 	line-height: 1.4;
